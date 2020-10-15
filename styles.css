@@ -1,0 +1,41 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  
+  
+  text-align:center;
+  font-family: 'Commissioner', sans-serif;
+  background-color:#d9e4dd;
+  align-items:center;
+  
+  flex-direction: column;
+  display:flex;
+  background-image: url("css/image.jpg");
+  background-size:cover;
+  background-position:center center;
+  min-height:100vh;
+  
+  
+  
+  
+}
+
+
+.title-app{
+  margin-top:70px;
+  position:relative;
+  margin-bottom:80px;
+  font-size:4rem;
+}
+
+.hours-class{
+  display:flex;
+}
+
+.big-text{
+    margin:50px;
+
+    font-size:2.8rem;
+}
